@@ -1,0 +1,19 @@
+com/example/TouchApp/ConnectApp.java
+ com.example.TouchApp.ConnectApp
+com/example/TouchApp/AlertDialogCallback.java
+ com.example.TouchApp.AlertDialogCallback
+com/example/TouchApp/BuildConfig.java
+ com.example.TouchApp.BuildConfig
+com/example/TouchApp/CodeDialog.java
+ com.example.TouchApp.CodeDialog
+ com.example.TouchApp.CodeDialog$1
+ com.example.TouchApp.CodeDialog$2
+com/example/TouchApp/MainActivity.java
+ com.example.TouchApp.MainActivity
+ com.example.TouchApp.MainActivity$1
+ com.example.TouchApp.MainActivity$1$1
+ com.example.TouchApp.MainActivity$2
+ com.example.TouchApp.MainActivity$3
+ com.example.TouchApp.MainActivity$4
+ com.example.TouchApp.MainActivity$5
+ com.example.TouchApp.MainActivity$6

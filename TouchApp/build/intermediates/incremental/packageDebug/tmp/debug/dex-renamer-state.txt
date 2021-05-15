@@ -1,0 +1,4 @@
+#Sat May 15 13:05:37 CEST 2021
+base.0=/home/felp/AndroidStudioProjects/TouchApp/TouchApp/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
